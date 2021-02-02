@@ -44,12 +44,11 @@ __*cse*__
 - ece    
 ## coding
 
-...
 def fun():
-   print("hello")
-...
-...
+  print("hello")
+````
+```
 fun()
-...
+```
     
     
