@@ -45,7 +45,7 @@ __*cse*__
 ## coding
 
 def fun():
-  print("hello")
+    printf("hello")
 ````
 ```
 fun()
