@@ -39,8 +39,8 @@ __*cse*__
    * mech a
     * mech b
 - civil
-    *civil a
-    *civil b
+    * civil a
+    * civil b
 - ece    
     
     
