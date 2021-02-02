@@ -55,3 +55,5 @@ fun()
 [jyoshna](https://www.markdownguide.org/cheat-sheet/)
 
 [github](https://www.google.com/search?q=github&oq=&aqs=chrome.1.69i59i450l8.4011076j0j15&sourceid=chrome&ie=UTF-8)
+
+[mail](https://www.google.com/search?q=gmail+login&oq=gmail&aqs=chrome.1.69i59l2j0i433j0j0i395i433l2j0i395l2j0i395i433l2.2938j1j15&sourceid=chrome&ie=UTF-8)
