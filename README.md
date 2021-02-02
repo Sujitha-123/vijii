@@ -43,10 +43,10 @@ __*cse*__
     * civil b
 - ece    
 ## coding
-
-def fun():
-    printf("hello")
-````
+```
+def fun()
+printf("hello")
+```
 ```
 fun()
 ```
